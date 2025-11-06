@@ -43,7 +43,7 @@ function buildSetupMessage() {
     );
   });
   return {
-    content: `🎫 **Phoenix Destek Sistemi**
+    content: `🎫 **Elite Cheats Destek Sistemi**
 
 Talep açtığınızda, “birisi bakabilir mi, merhaba, selam” gibi ifadeler kullanmak yerine direkt olarak sorununuzu belirtirseniz sizinle daha çabuk iletişim kurabiliriz. 💬
 
